@@ -13,6 +13,10 @@ El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1
 - Plantillas para ideas y proyectos
 - README principal
 - Este CHANGELOG.md
+- Plantilla especializada para agentes de IA (TEMPLATE-AGENTE-IA.md)
+- Ejemplo completo de agente: Analizador de Feedback
+- Guía rápida para definir agentes de IA
+- Product Agent funcional para generar prototipos
 
 ---
 

@@ -18,10 +18,20 @@ ans-ai/
 ## Inicio Rápido
 
 ### 1. Proponer una Idea
+
+#### Para Productos/Features:
 ```bash
 # Crear nueva idea desde plantilla
 cp ideas/TEMPLATE.md ideas/mi-nueva-idea.md
 # Editar con tu propuesta
+```
+
+#### Para Agentes de IA:
+```bash
+# Crear idea de agente desde plantilla especializada
+cp ideas/TEMPLATE-AGENTE-IA.md ideas/agente-mi-agente.md
+# Ver guía rápida para ayuda
+cat ideas/GUIA-RAPIDA-AGENTES.md
 ```
 
 ### 2. Desarrollar un Prototipo
